@@ -187,12 +187,6 @@ button.inner-link a {
   display: block;
 }
 
-.tabs div img {
-  float: left;
-  width: 50%;
-  height: 100%;
-  margin-right: 50px;
-}
 .tabs div iframe {
   float: left;
   width: 50%;
