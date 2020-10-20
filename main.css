@@ -1,5 +1,9 @@
 /* COMMON */
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   line-height: 1.5em;
   margin: 0;
@@ -147,6 +151,8 @@ button.inner-link a {
 .title {
   width: inherit;
   height: 10vh;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .container {
